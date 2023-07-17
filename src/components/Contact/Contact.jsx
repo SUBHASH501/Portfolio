@@ -33,10 +33,10 @@ function Contact() {
     <a href="https://github.com/subhash501" className="social-icon">
     <img src={github} alt="social" />
     </a>
-    <a href="https://github.com/subhash501" className="social-icon">
+    <a href="https://www.linkedin.com/in/subhashkumar501/" className="social-icon">
     <img src={linked} alt="social" />
     </a>
-    <a href="https://github.com/subhash501" className="social-icon">
+    <a href="https://www.instagram.com/subhash.ishwar/" className="social-icon">
     <img src={instagram} alt="social" />
     </a>
    </div>
