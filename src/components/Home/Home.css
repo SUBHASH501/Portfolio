@@ -4,7 +4,8 @@
     flex-direction: column;
     justify-content: center;
     overflow-y:auto;
-    padding: 100px 10%;
+    scroll-behavior: smooth;
+    padding: 20px;
     box-sizing: border-box;
     min-height: 100vh;
     align-items: center;
@@ -34,7 +35,7 @@
     font-weight: 600;
     font-size:16px;
     line-height: 20px;
-    color:grey;
+    color:white;
     margin:10px;
 }
 
@@ -108,6 +109,13 @@
     justify-content: center;
     flex-wrap: wrap;
     margin:5px 10px;
+}
+
+.profile{
+    height: 200px;
+    width: 200px;
+    border-radius: 500px;
+    margin: auto;
 }
 
 @media (max-height:425px){

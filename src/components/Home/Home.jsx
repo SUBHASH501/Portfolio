@@ -3,6 +3,7 @@ import {Link} from 'react-router-dom';
 import './Home.css';
 import homeanime from './../../assets/home_anime.gif';
 import Resume from './../../assets/Resume.pdf';
+import profile from './../../assets/profile.jpg'
 
 class Home extends Component {
      state={showModal:false};
@@ -22,6 +23,7 @@ class Home extends Component {
             
           <div className="header-text">
             <h1>Welcome to My portfolio</h1>
+            <img src={profile} alt="Profile" className='profile' />
             <p>This is Subhash, A MERN stack developer</p>
           </div>
 
