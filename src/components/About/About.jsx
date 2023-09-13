@@ -18,7 +18,7 @@ function About() {
         {/*Sub section 1*/}
         <h3 className="about-sub-head">Hello ! My name is Subhash Kumar.</h3>
         <p className="about-details">
-         A software developer with a passion for building efficient and scalable applications. I am working in GoFIBER as an Software Development Engineer.
+         A software developer with a passion for building efficient and scalable applications. I am working in Western Digitl as an SSD Firmware verification engineering.
         
         I have a solid foundation in firmware verification engineering, thanks to my one-year internship at Western Digital (SanDisk). During this time, I gained valuable experience in ensuring the quality and reliability of firmware through rigorous testing and verification processes. This role allowed me to sharpen my problem-solving skills and attention to detail, crucial qualities for any developer.
         
