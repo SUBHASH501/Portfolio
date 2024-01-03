@@ -9,6 +9,8 @@ import About from '../About/About';
 import Certificate from '../Certificate/Certificate';
 import NavBar from '../NavBar/NavBar';
 import GoHome from '../GoHome/GoHome';
+import Education from '../Education/Education';
+
 
 function App() {
   return (
@@ -22,6 +24,7 @@ function App() {
                 <Route path='/skills' element={<Skills/>}/>
                 <Route path='/contact' element={<Contact/>}/>
                 <Route path='/certificates' element={<Certificate/>}/>
+                <Route path='/education' element={<Education/>}/>
            </Routes>
           <GoHome/>
           </HashRouter>
